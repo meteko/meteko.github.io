@@ -1,17 +1,26 @@
 ---
 layout: post
 title: Personal flexforms and the need for TypoScript
+feature-img: "img/smoothgallery-simple.png"
 ---
+
+[smoothgallery-original-flexform]: /img/smoothgallery-tab2.png "Original EXT:rgsmoothgallery flexform"
+[smoothgallery-simple]: /img/smoothgallery-simple.png "Simplified EXT:rgsmoothgallery flexform"
+[usergroup-flexform-fields]: /img/usergroup-flexform-fields.png "Configuring FlexForm field access in backend usergroups"
 
 How do you cope with flexforms giving the user way to many possibility for "customization" - or should i say "frustrations" :-)
 
-Original EXT:rgsmoothgallery flexform
+![Original EXT:rgsmoothgallery flexform][smoothgallery-original-flexform]
 
+	Original EXT:rgsmoothgallery flexform
 
-Simplified EXT:rgsmoothgallery flexform
+![Simplified EXT:rgsmoothgallery flexform][smoothgallery-simple]
 
+	Simplified EXT:rgsmoothgallery flexform
 
-Configuring FlexForm field access in backend usergroups
+![Configuring FlexForm field access in backend usergroups][usergroup-flexform-fields]
+
+	Configuring FlexForm field access in backend usergroups
 
 When i first started with TYPO3 (from version 4.2) i loved the flexform concept! And I still do!
 
