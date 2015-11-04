@@ -4,11 +4,11 @@ title: Remove fields from User Settings, they will not be needed
 feature-img: "img/buzz-user-settings-personal.png"
 ---
 
+Have you ever wondered how to remove some of the fields from the User Settings module, without loosing important settings?
+
 [buzz-user-settings-personal]: /img/buzz-user-settings-personal.png "Way too many fields!"
 [buzz-overridden-field]: /img/buzz-overridden-field.png "A field overridden (overruled?) by setup.override"
 [buzz-user-settings-personal]: /img/buzz-user-settings-personal.png "Mmm, the field is removed - less to worry about by the user!"
-
-**Have you ever wondered how to remove some of the fields from the User Settings module, without loosing important settings?**
 
 ![Way too many fields!][buzz-user-settings-personal]
 

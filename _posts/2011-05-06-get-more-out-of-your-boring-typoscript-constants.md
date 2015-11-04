@@ -4,11 +4,11 @@ title: Get more out of your boring TypoScript constants!
 feature-img: "img/constantsextended-extension-manager.png"
 ---
 
+Many extensions requires you to select some sort of record. Mostly this is done, by finding the correct uid and then enter it into a field.. This can be done a lot more "beautiful"!
+
 [constantsextended-extension-manager]: /img/constantsextended-extension-manager.png "How you can make your extension constants more dynamic and useful"
 [constantsextended-constant-editor]: /img/constantsextended-constant-editor.png ".. and you can use it inside your constant editor!"
 [imageautoresize-extension-manager]: /img/imageautoresize-extension-manager.png "Even flexforms! This is sweet!"
-
-**Many extensions requires you to select some sort of record. Mostly this is done, by finding the correct uid and then enter it into a field.. This can be done a lot more "beautiful"!**
 
 ![How you can make your extension constants more dynamic and useful][constantsextended-extension-manager]
 

@@ -4,9 +4,9 @@ title: Create a download action with Extbase
 feature-img: "img/fdf-fotodatabase-single-view.png"
 ---
 
-[fdf-fotodatabase-single-view]: /img/fdf-fotodatabase-single-view.png "Single view in FDFs Mediadatabase"
+Do you want to make some statistic etc. before letting a user download a file. You can use a standard Extbase action to fullfill your needs :)
 
-**Do you want to make some statistic etc. before letting a user download a file. You can use a standard Extbase action to fullfill your needs :)**
+[fdf-fotodatabase-single-view]: /img/fdf-fotodatabase-single-view.png "Single view in FDFs Mediadatabase"
 
 ![Single view in FDFs Mediadatabase][fdf-fotodatabase-single-view]
 

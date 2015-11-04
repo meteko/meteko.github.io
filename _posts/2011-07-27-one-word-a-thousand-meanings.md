@@ -4,12 +4,13 @@ title: One word, a thousand meanings!
 feature-img: "img/translation-pootle-translate-form.png"
 ---
 
+With great thanks to Dominique Feyer, we have a new and fantastic translation platform! Let's help our self to get a high translation quality! We all deserve it!
+
 [translation-lang-show-labels]: /img/translation-lang-show-labels.png "This is how your BE will look after enabling labels. Don't use in production!"
 [translation-code-conf-debugkey]: /img/translation-code-conf-debugkey.png "The secret configuration setting!"
 [translation-pootle-translate-form]: /img/translation-pootle-translate-form.png "Find/read the labels from the Pootle platform"
 [translation-em-conf-settings]: /img/translation-em-conf-settings.png "EM settings in EXT:translationhelper"
 
-**With great thanks to Dominique Feyer, we have a new and fantastic translation platform! Let's help our self to get a high translation quality! We all deserve it!**
 
 ![This is how your BE will look after enabling labels. Don't use in production!][translation-lang-show-labels]
 

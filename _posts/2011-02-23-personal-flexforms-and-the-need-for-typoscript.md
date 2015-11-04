@@ -4,11 +4,11 @@ title: Personal flexforms and the need for TypoScript
 feature-img: "img/smoothgallery-simple.png"
 ---
 
+How do you cope with flexforms giving the user way to many possibility for "customization" - or should i say "frustrations" :-)
+
 [smoothgallery-original-flexform]: /img/smoothgallery-tab2.png "Original EXT:rgsmoothgallery flexform"
 [smoothgallery-simple]: /img/smoothgallery-simple.png "Simplified EXT:rgsmoothgallery flexform"
 [usergroup-flexform-fields]: /img/usergroup-flexform-fields.png "Configuring FlexForm field access in backend usergroups"
-
-How do you cope with flexforms giving the user way to many possibility for "customization" - or should i say "frustrations" :-)
 
 ![Original EXT:rgsmoothgallery flexform][smoothgallery-original-flexform]
 
