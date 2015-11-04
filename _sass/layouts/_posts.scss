@@ -20,9 +20,11 @@ article {
 header {
   h1 {
     margin: 0;
+    color: rgba(10, 10, 10, 0.7);
   }
   .meta {
-    color: rgba($text-color, .5);
+    color: rgba(10, 10, 10, 0.7);
+    /*color: rgba($text-color, .5);*/
     font-size: 0.9em;
     letter-spacing: 0.1em;
     margin: 0;
