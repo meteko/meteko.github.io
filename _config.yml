@@ -5,23 +5,20 @@ url: "http://meteko.net" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: "Tech, blog, love, passionate"
+  title: "Tech | blog | love | passion"
   avatar: avatar.png
   gravatar: 9f790f494a3fce645c5490cd47cb1edc
   description: "Tech blog, written with love and passion for sharing solutions" # used by search engines
 
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text: "Tech blog, written with love and passion for sharing solutions"
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: "soren@meteko.dk" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -30,14 +27,14 @@ theme:
   github: "meteko/meteko.github.io"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  "https://dk.linkedin.com/in/sorenmalling" # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "sorenmalling"
   wordpress:
   youtube:
 
